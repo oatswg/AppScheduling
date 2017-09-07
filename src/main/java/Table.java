@@ -19,13 +19,12 @@ public class Table {
 
     }
 
-    public int getSNumber() {
-        return sNumber.get();
-    }
+    public int getSNumber() { return sNumber.get(); }
 
     public String getSAssment() {
         return sAssment.get();
     }
+
     public String getSDate() {
         return sDate.get();
     }
